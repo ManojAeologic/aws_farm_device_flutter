@@ -25,9 +25,9 @@ device_pools:
 #      - name: Samsung Galaxy S9 (Unlocked)
 #        model: SM-G960U1
 #        os: 8.0.0
-      - name: Google Pixel
-        model: Pixel
-        os: 8.0.0
+#      - name: Google Pixel
+#        model: Pixel
+#        os: 8.0.0
       - name: Google Pixel 2
         model: Google Pixel 2
         os: 8.0.0
